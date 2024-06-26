@@ -1,4 +1,4 @@
-# RC-Car-Microprocessors-
+# RC-Car-Microprocessors (by C)
 Operate and control a remote control car using a control board ( STM32F401 )
 
 #Idea:
