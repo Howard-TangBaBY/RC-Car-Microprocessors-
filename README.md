@@ -1,7 +1,7 @@
 # RC-Car-Microprocessors-
 Operate and control a remote control car using a control board ( STM32F401 )
 
-Idea:
+Idea:/n
 I want to try to accomplish a high safety level car, like VOLVO, but as an RC Car
 
 # Functional Unit
