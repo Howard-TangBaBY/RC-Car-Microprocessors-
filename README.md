@@ -34,7 +34,7 @@ UIUX
 #How to implement the functions
 1. Using the Buzzer as a horn
 2. Using Ultrasonic Sensor to detect the barriers.
-   If the obstacle is too close, an interrupt will be generated to perform emergency handling, immediately stopping the vehicle,    and then setting the gear indicator to 0.
+   <br>If the obstacle is too close, an interrupt will be generated to perform emergency handling, immediately stopping the vehicle,    and then setting the gear indicator to 0.
    
 4.
 5.
